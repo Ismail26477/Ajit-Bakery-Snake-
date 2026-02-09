@@ -47,7 +47,7 @@ export const Navbar = () => {
                 <SheetHeader className="p-6 border-b border-border text-left">
                   <SheetTitle className="flex items-center gap-2">
                     <Crown className="w-6 h-6 text-accent" />
-                    <span className="font-display font-bold text-primary">Ajit Bakery & Snake</span>
+                    <span className="font-display font-bold text-primary">Ajit Bakery & Snacks</span>
                   </SheetTitle>
                 </SheetHeader>
                 <div className="flex flex-col gap-2 p-4">
@@ -85,7 +85,7 @@ export const Navbar = () => {
               <Crown className="w-10 h-10 text-accent" />
             </motion.div>
             <div className="flex flex-col">
-              <span className="font-display text-2xl font-bold text-primary leading-tight">Ajit Bakery & Snake</span>
+              <span className="font-display text-2xl font-bold text-primary leading-tight">Ajit Bakery & snacks</span>
               <span className="text-xs text-muted-foreground font-elegant tracking-wider">
                 Royal Taste, Sweet Moments
               </span>
